@@ -6,7 +6,7 @@ Plan to support RV32I and RV32M.
 Future Plan to support RV32V and possibly multi-core.
 
 ## Support the author via Alipay:
-![Image text](https://www.github.com/yintinayu/iris-chip/img-folder/IMG_4448.JPG)
+![Image text](https://github.com/yintinayu/iris-chip/raw/master/images/IMG_4448.JPG)
 
 ## License
 This is free and unencumbered software released into the public domain.
